@@ -1,7 +1,7 @@
 # PicolasBOT
 **BOT SIMPLE. MODIFICADO POR PICOLAS**
 <p align="center">
-  <img src="https://telegra.ph/file/c3396a8d9b8ba43aed33e.jpg" width="800"/>
+  <img src="[https://telegra.ph/file/c3396a8d9b8ba43aed33e.jpg](https://raw.githubusercontent.com/picolasYT/SimpleBot/master/menu2.jpg)" width="800"/>
 </p>
 
 <p align="center">
